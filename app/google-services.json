@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689370637919",
+    "project_id": "anadolusigortaciro",
+    "storage_bucket": "anadolusigortaciro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689370637919:android:2ff06095fac10e44fe5dea",
+        "android_client_info": {
+          "package_name": "com.example.anadolusigortaciro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689370637919-1fcjbd74ql79ag66mgj857oierm6qorn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anadolusigortaciro",
+            "certificate_hash": "54195bf0d7125ae2109a3e2924942a66bd2db15f"
+          }
+        },
+        {
+          "client_id": "689370637919-k5ujgb8ld55mtrjua9tode83vavjaf3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3cJraUAfe5XMe6PuBfCisy_71bmEB2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689370637919-k5ujgb8ld55mtrjua9tode83vavjaf3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

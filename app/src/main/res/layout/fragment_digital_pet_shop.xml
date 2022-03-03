@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".ui.home.petsagram.digitalpetshop.DigitalPetShopFragment">
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipCat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kedi"
+            app:chipBackgroundColor="@color/spotify_green"
+            android:textColor="@color/white"
+            android:fontFamily="@font/quicksand_medium" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipDog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Köpek"
+            app:chipBackgroundColor="@color/spotify_green"
+            android:textColor="@color/white"
+            android:fontFamily="@font/quicksand_medium"/>
+
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Diğer"
+            app:chipBackgroundColor="@color/spotify_green"
+            android:textColor="@color/white"
+            android:fontFamily="@font/quicksand_medium"/>
+
+    </com.google.android.material.chip.ChipGroup>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewDigitalPetshop"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="55dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/chipGroup"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:listitem="@layout/item_digital_pethshop_card" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/home_24"
+        android:title="Anasayfa" />
+
+    <item
+        android:id="@+id/pawSafeFragment"
+        android:icon="@drawable/paw_24"
+        android:title="Patim Güvende" />
+
+    <item
+        android:id="@+id/petsagramFragment"
+        android:icon="@drawable/camera_24"
+        android:title="Petsagram" />
+
+    <item
+        android:id="@+id/insuranceServiceFragment"
+        android:icon="@drawable/treatment_24"
+        android:title="Diğer" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/user_24"
+        android:title="Profil" />
+
+</menu>

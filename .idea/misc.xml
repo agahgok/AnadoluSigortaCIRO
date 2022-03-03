@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/drawable-v24/ic_navigation.xml" value="0.4015625" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/drawable/_timer_24.xml" value="0.4015625" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/drawable/home_24.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/drawable/paw_24.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/drawable/paw_icon.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/drawable/treatment_24.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/drawable/user_24.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/font/quicksand.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/dialog_prosess.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_digital_pet_shop.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_digital_pet_shop2.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_feed_calendar.xml" value="0.19825072886297376" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_home.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_insurance_service.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_insurance_service_detail.xml" value="0.3076923076923077" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_maps.xml" value="0.18743667679837892" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_on_boarding_first.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_on_boarding_second.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_on_boarding_third.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_paw_safe.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_paw_safe_view_pager.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_pet_vaccine_state.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_petsagram.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_petsagram_share_photo.xml" value="0.34148550724637683" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_petsagram_view_pager.xml" value="0.34148550724637683" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_profile.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_register.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_share_photo.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_splash_screen.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/fragment_view_pager.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/home_pet_info_card.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/insurance_service_card_item.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/item_digital_pethshop_card.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/item_food_calendar_card.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/item_shared_photo.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/item_vaccination_state_card.xml" value="0.25" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/layout/toolbar.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/mertm/AndroidStudioProjects/AnadoluSigortaCIRO/app/src/main/res/menu/paw_safe_tab_menu.xml" value="0.3854166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

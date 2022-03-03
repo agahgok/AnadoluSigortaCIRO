@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">AnadoluSigortaCIRO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bireysel_cati_tipi">Bireysel Çatı Tipi Güneş Enerji Paneli Sigortası</string>
+    <string name="devlet_destekli_tarim_sigortasi">Devlet Destekli Tarım Sigortası</string>
+    <string name="ges">Güneş Enerji Santralleri Sigortası</string>
+    <string name="hukuksal_koruma_sigortası">Hukuksal Koruma Sigortası</string>
+    <string name="mehmetcik_yasam_sigortası">Mehmetçik Yaşam Sigortası</string>
+    <string name="telefonum_guvende">Telefonum Güvende Sigortası</string>
+
+    <string name="ozel_guvenlik_zorunlu_mali_sorumluluk_sigortasi">Özel Güvenlik Zorunlu Mali Sorumluluk Sigortası</string>
+    <string name="ozel_guvenlik_zorunlu_mali_sorumluluk_sigortasi_detail">Özel Güvenlik Zorunlu Mali Sorumluluk Sigortası</string>
+
+    <string name="tibbi_kotu_uygulamaya_iliskin_zorunlu_mali_sorumluluk_sigortasi">Tıbbi Kötü Uygulmaya İlişkin Zorunlu Mali Sourmluluk Sigortası</string>
+    <string name="tibbi_kotu_uygulamaya_iliskin_zorunlu_mali_sorumluluk_sigortasi_detail">Tıbbi Kötü Uygulmaya İlişkin Zorunlu Mali Sourmluluk Sigortası</string>
+
+    <string name="yolcu_zorunluluk_sigortalari">Yolcu Sorumluluk Sigortaları</string>
+    <string name="yolcu_zorunluk_sigortalari_detail">Tıbbi Kötü Uygulmaya İlişkin Zorunlu Mali Sourmluluk Sigortası</string>
+
+    <string name="isveren_zorunluluk_sigortalari">İşveren Sorumluluk Sigortaları</string>
+    <string name="isveren_sorumluluk_sigortlari_detail">Tıbbi Kötü Uygulmaya İlişkin Zorunlu Mali Sourmluluk Sigortası</string>
+
+    <string name="bireysel_cati_tipi_detail">Telefonunuzu Dakikalar İçerisinde Ekran Kırılmalarına Karşı Koruma Altına Almak İster Misiniz?\n\n
+
+Telefonum Güvende ile telefonunuzu ekran kırılmalarına karşı koruyabilirsiniz.
+
+Ekran kırılması teminatımız ile cihazın ekranının kırılması sonucunda, ekranda ve ekrana entegre parçalarda doğrudan meydana gelecek hasarlar karşısında parçaların onarımı/değişimini poliçe süresince iki kere karşılıyoruz.
+
+Satış kanallarımız ve Sigortam Cepte üzerinden kullanıcı dostu bir deneyimle satın alabileceğiniz Telefonum Güvende ile telefonunuz için poliçenizi hemen oluşturabilirsiniz.
+
+Sigortam Cepte uygulamamızdan telefon için test ve kriterleri başarıyla tamamladığınızda 12 taksit ödeme avantajıyla telefonlarınız poliçe süresince güvence altında.</string>
+
+
+    <string name="devlet_destekli_tarim_sigortasi_detail">Devlet Destekli Tarım Sigortaları
+Şirketimiz 14.06.2005 tarihinde yürürlüğe giren 5363 sayılı "Tarım Sigortaları Kanunu" doğrultusunda
+kurulan TARSİM\' e (Tarım Sigortaları Havuzu) üye olmuştur. 01.06.2006 tarihinden itibaren de TARSİM
+üzerinden Devlet Destekli Bitkisel Ürün Sigortası, Sera Sigortası, Büyükbaş Hayvan Hayat Sigortası,
+Kümes Hayvanları Sigortası, Su Ürünleri Sigortası, Küçükbaş Hayvan Hayat Sigortası ve Arıcılık
+Sigortası yapılmaktadır.
+Bitkisel Ürün Sigortası:
+Çiftçi Kayıt Sistemi\’nde (ÇKS) güncel kaydı bulunan üreticilere, sağlanan ana teminat paketi; dolu,
+fırtına, hortum, yangın, heyelan, deprem, sel ve su baskını ile yaş meyve, sebze ve kesme çiçekler için
+doludan kaynaklanan kalite kaybı risklerinden oluşmaktadır. Don riskinin yaş meyvelerde neden olduğu
+miktar kaybı ile dolu, dolu ağırlığı, fırtına, hortum, yangın, deprem, heyelan, sel ve su baskınının, dolu
+ağı ve örtü sistemlerine verdiği zararları, ana teminat paketine ilave olarak sigorta ettiren tarafından
+istenirse sigorta edilir. Sadece don riskine karşı sigorta yapılamaz.
+Sera Sigortası;
+Örtü Altı Kayıt Sistemine kayıtlı olan ve risk değerlendirmesi sonucunda, sigortaya kabulü uygun
+görülen seralardaki unsurlara (örtü, iskelet, teknik donanım ve ürün) vereceği zararları karşılar.
+Risk inceleme-değerlendirme sonucuna göre Dolu, Deprem, Taşıt çarpması ile Fırtına, Hortum, Yangın,
+Heyelan, Sel ve Su Baskını, Kar ve Dolu Ağırlığı riskleri, teminat kapsamına alınabilmektedir.
+Büyükbaş Hayvan Hayat Sigortası;
+Veteriner Bilgi Sistemine (TÜRKVET\’ e) kayıtlı olan süt ve erkek besi sığırları ile mandalar, yapılacak
+risk değerlendirmesi sonucunda, sigortaya kabul edilir.
+1. Sığır vebası, tüberküloz, bruselloz, şap ve BSE hastalıkları ile 5996 sayılı Veteriner Hizmetleri, Bitki
+Sağlığı, Gıda ve Yem Kanunu’na göre ihbarı mecburi tüm bulaşıcı hastalıklar (anthrax ve kuduz
+hariç), hariç olmak üzere, her türlü hayvan hastalıkları ve gebelik, doğum veya cerrahi müdahale
+sonucu ölüm, yavru atma ve yavru ölümü,
+2. Her türlü kaza, yılan ve böcek sokması,
+3. Zehirli çayır otları ve yem’e bağlı zehirlenmeler,
+4. Her türlü doğal afetler ve güneş çarpması,
+5. Yangın veya infilâk sebebiyle, meydana gelen ölümler ve mecburi kesimler,
+nedeniyle, sigortalının, doğrudan doğruya uğradığı maddi zararı temin eder.
+Küçükbaş Hayvan Hayat Sigortası;
+Veteriner Bilgi Sistemine (TÜRKVET\’e) kayıtlı olan koyun ve keçi ile koç ve tekeler, yapılacak risk
+değerlendirmesi sonucunda, sigortaya kabul edilir.
+1. Koyun ve keçi vebası (PPR), koyun ve keçi brucellozu, şap ve şap’a bağlı sekonder
+enfeksiyonlar, mavi dil, koyun-keçi çiçeği hastalıkları ile 5996 sayılı Veteriner Hizmetleri, Bitki
+Sağlığı, Gıda ve Yem Kanununa göre ihbarı mecburi, tüm bulaşıcı hastalıklar (kuduz ve anthrax
+hariç), hariç olmak üzere, her türlü hayvan hastalıkları ve gebelik, doğum veya cerrahi
+müdahale sonucu ölüm,
+2. Her türlü kaza, vahşi hayvan saldırısı, yılan ve böcek sokması,
+3. Zehirli çayır otları ve yem‘e bağlı zehirlenmeler,
+4. Her türlü doğal afetler ve güneş çarpması,
+5. Yangın veya infilâk sebebiyle meydana gelen ölümler ve mecburi kesimler,
+nedenleriyle sigortalının doğrudan doğruya uğradığı, maddi zararı temin eder.
+Kümes Hayvanları Sigortası;
+Bio-güvenlik ve hijyen tedbirleri alınmış tesislerde yetiştirilen kümes hayvanları, yapılacak risk
+değerlendirmesi sonucunda, sigortaya kabul edilir.
+.</string>
+    <string name="ges_detail">Güneş Enerji Santralleri Sigortası</string>
+    <string name="hukuksal_koruma_sigortası_detail">Hukuksal Koruma Sigortası</string>
+    <string name="mehmetcik_yasam_sigortası_detail">Mehmetçik Yaşam Sigortası</string>
+    <string name="telefonum_guvende_detail">Telefonum Güvende Sigortası</string>
+
+
+    <string name="cat1">Anadolu Pet aracılığıyla yapılan ilk alışverişe 5kg kedi maması hediye !</string>
+    <string name="cat2">Kedilerinizin kumlarını sık sık temizlemeyi ve bu temizleme sırasında dışkılarını kontrol etmeyi ihmal etmeyin. Pek çok sağlık sorununu bu şekilde erkenden tespit etmeniz mümkün..</string>
+    <string name="cat3">kedilere yemek saatlerle verilmez. her zaman mama kaplarında yemeklerinin bulunması gerekmektedir..</string>
+    <string name="cat4">Patim Güvende ile minik dostlarımızın hayatlarını güzelleştirelim !</string>
+    <string name="cat5">Kedilerde en yoğun denge kaybı kulak hastalıklarında ortaya çıkmaktadır. Mutlaka veteriner hekiminize başvurunuz.</string>
+
+    <string name="dog1">Köpeğinizin sağlığı ve enerjisi için dışarıda gezintiye çıkarmak ve bazen o istediğinde koşturmak önem arz etmektedir.</string>
+    <string name="dog2">Eğer köpeğinizin mamasını değiştirmeniz gerekirse; en iyisi ve doğru olanı da eski mamasını yeni maması ile karıştırmaktır.</string>
+    <string name="dog3">Oyunlar, bir köpeğin egzersizinin doğal bir parçasıdır ve psikolojik gelişimine yardımcı olur.</string>
+    <string name="dog4">Sosyalleşmelerine yardımcı olmak için yavru köpeklerin diğer köpeklerle ve diğer hayvanlarla karşılaşması ve mümkün olduğunda aile gezilerine katılması gerekir.</string>
+    <string name="dog5">Çikolata köpekler için zehirli olabileceğinden, şeker ve çikolata kesinlikle verilmemelidir.</string>
+
+
+    <string name="patim_g_vende_sigortas_nedir"><u>Patim Güvende Sigortası Nedir?</u></string>
+    <string name="title">Başlık</string>
+    <string name="message">Uyarı</string>
+    <string name="schedule_notification">Kaydet</string>
+
+
+</resources>
