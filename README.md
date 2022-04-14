@@ -1,5 +1,5 @@
 # AnadoluSigortaCIRO
-Anadolu Sigorta Pet Social Hackathon
+Anadolu Sigorta Pet Social Hackathon 3.lük Derecesi
 
 
 ## Screens
